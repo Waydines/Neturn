@@ -1,5 +1,7 @@
-
-<h1 align="center">Neturn</h1>
+<p align="center">
+ <img height="128" src="https://user-images.githubusercontent.com/115707202/220734175-7b1f3833-c062-41e5-8ae8-ee5b2e6733f8.png"/>
+ <h1 align="center">Neturn</h1>
+</p>
 <p align="center">
  <a href="https://github.com/Waydines/Neturn/blob/main/LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-EUPL--1.2-blue?style=for-the-badge&labelColor=000"/></a>
 </p>
