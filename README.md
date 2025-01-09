@@ -6,6 +6,10 @@
  <a href="https://github.com/Waydines/Neturn/blob/main/LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-EUPL--1.2-blue?style=for-the-badge&labelColor=000"/></a>
 </p>
 
+> [!CAUTION]  
+> Este repositório é do antigo sistema digital de votação de Waydines, o qual está incompleto, é inseguro e não recomendado para qualquer forma de uso.
+> Ademais, este repositório agora é arquivado em virtude do novo e melhor sucessor dele, [Saturn](https://github.com/Waydines/Saturn).
+
 Neturn é uma urna virtual que usa uma mistura bem única entre o método preferencial (mais especificamente, o de [voto único transferível](https://pt.wikipedia.org/wiki/Voto_%C3%BAnico_transfer%C3%ADvel)) e o [método proporcional](https://pt.wikipedia.org/wiki/Representa%C3%A7%C3%A3o_proporcional) e o repositório consiste de duas partes:
 - **Contagem:** que é responsável pelo processo de [escrutínio](https://pt.wikipedia.org/wiki/Vota%C3%A7%C3%A3o#Escrut%C3%ADnio) da eleição
 - **Bot:** que é responsável por registrar os votos das pessoas por meio de um Bot do Discord (atualmente incompleto)
